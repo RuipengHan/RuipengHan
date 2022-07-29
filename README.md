@@ -15,8 +15,7 @@ Hi, I'm Ruipeng Han!
 <br/>
 <p align="center">
 	<a href="https://github.com/ruipenghan">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Math+and+Computer+Science+and+Statistics+Student;Experienced+Full+Stack+Web+Developer;Open for job opportunities;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45">
-	</a>
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Math+and+Computer+Science+and+Statistics+Student;Experienced+Full+Stack+Web+Developer;Open+for+job+opportunities;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45">
 </p>
 
 <hr>
