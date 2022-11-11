@@ -23,7 +23,7 @@ Hi, I'm Ruipeng Han!
 <pre>
 📚 I am a senior majoring Math & Computer Science & Statistics at UIUC.
 💻 I had four internships experiences as a full-time software engineer.
-🔭 I am currently working on a project 'Classpedia,' 
+🔭 I am currently working on a project 'Classpedia,' a public platform for University course reviews.
 🌱 I am very passionate to learn about software engineering and machine Learning stuff
 🌟 Main languages: Python, C++, HTML/CSS/JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
