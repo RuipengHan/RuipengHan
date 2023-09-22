@@ -43,8 +43,6 @@ Hi, I'm Ruipeng Han!
 	<a href="https://github.com/RuipengHan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruipenghan" alt="ruipenghan" /></a> </p>
-
 ## <a href="https://github.com/ruipenghan">🚀</a> GitHub Stats
 
 <!-- ![Ruipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuipengHan&show_icons=true&theme=radical&include_all_commits=true&count_private=true) -->
