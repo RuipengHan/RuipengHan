@@ -41,7 +41,7 @@ Hi, I'm Ruipeng Han!
 
 ## <a href="https://github.com/ruipenghan"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
-![Ruipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuipengHan&theme=radical&show_icons=true)
+![Ruipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuipengHan&show_icons=true&theme=radical)
 
 <br/>
 <summary><b>⚡ Ruipeng's Stats</b></summary>
