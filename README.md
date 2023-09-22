@@ -21,14 +21,16 @@ Hi, I'm Ruipeng Han!
 <hr>
 
 <pre>
-📚 I am a senior majoring Math & Computer Science & Statistics at UIUC.
-💻 I had four internships experiences as a full-time software engineer.
-🔭 I am currently working on a project 'Classpedia,' a public platform for University course reviews.
-🌱 I am very passionate to learn about software engineering and machine Learning stuff
+📚 Currently a Master of Computer Science student at UIUC. Expect to graduate in May 2024.
+🎓 Obtained B.S. in Math & Computer Science & Statistics at UIUC in May 2023.
+💻 Past four internship experiences as a full-time software engineer.
+🔭 Currently working on a project 'Classpedia,' a public platform for University course reviews, and lc-gg.com, an online group-study leetcoder contest platform.
+🌱 I am very passionate about learning about software engineering and machine Learning
 🌟 Main languages: Python, C++, HTML/CSS/JavaScript
+🛠️ Frameworks: Next.js, Django, Flask, Java Spring Boot
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>. 
-🌐 In case you are interested in knowing more about me, visit my website at <a href="https://www.ruipenghan.com" target="_blank">https://www.ruipenghan.com</a>, or find my online CV here at <a href="https://www.ruipenghan.com/cv" target="_blank">https://www.ruipenghan.com/cv</a> .
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>full-time</b> job opportunity. 
+🌐 In case you are interested in learning more about me, visit my website at <a href="https://www.ruipenghan.com" target="_blank">https://www.ruipenghan.com</a>, or find my CV here at <a href="https://www.ruipenghan.com/static/files/CV.pdf" target="_blank">https://www.ruipenghan.com/cv</a> .
 </pre>
 <hr>
 
@@ -39,7 +41,7 @@ Hi, I'm Ruipeng Han!
 	<a href="https://github.com/RuipengHan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## <a href="https://github.com/ruipenghan"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FGitHub-Mark.png&tbnid=thYE3r73bm1jUM&vet=12ahUKEwjX4uaR5r2BAxUlMt4AHZxMAw4QMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&docid=H8p6HHzcTglWAM&w=560&h=560&q=github%20icon%20url&ved=2ahUKEwjX4uaR5r2BAxUlMt4AHZxMAw4QMygAegQIARBM" width="30"></a> GitHub Stats
+## <a href="https://github.com/ruipenghan"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fgithub%2F125270&psig=AOvVaw0VWpQBHVdl50dhyypfDjYC&ust=1695458024685000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOCd-b3nvYEDFQAAAAAdAAAAABAD" width="30"></a> GitHub Stats
 
 ![Ruipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuipengHan&show_icons=true&theme=radical)
 
