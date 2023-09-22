@@ -43,14 +43,14 @@ Hi, I'm Ruipeng Han!
 
 ## <a href="https://github.com/ruipenghan"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fgithub%2F125270&psig=AOvVaw0VWpQBHVdl50dhyypfDjYC&ust=1695458024685000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOCd-b3nvYEDFQAAAAAdAAAAABAD" width="30"></a> GitHub Stats
 
-![Ruipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuipengHan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Ruipeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuipengHan&show_icons=true&theme=radical&&include_all_commits=true&count_private=true)
 
 <br/>
-<summary><b>⚡ Ruipeng's Stats</b></summary>
+<summary><b>⚡ Ruipeng's Stats</b></summary
 <br/>
 <p align="center">
 	<a href="https://github.com/ruipenghan">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ruipenghan&show_icons=true" alt="ruipenghan">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ruipenghan&show_icons=true&include_all_commits=true" alt="ruipenghan">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruipenghan" alt="ruipenghan">
 	</a>
 	<br/>
