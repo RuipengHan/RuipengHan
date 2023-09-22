@@ -50,7 +50,7 @@ Hi, I'm Ruipeng Han!
 <br/>
 <p align="center">
 	<a href="https://github.com/ruipenghan">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ruipenghan&&include_all_commits=true&count_private=true" alt="ruipenghan">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ruipenghan&include_all_commits=true&count_private=true" alt="ruipenghan">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruipenghan" alt="ruipenghan">
 	</a>
 	<br/>
