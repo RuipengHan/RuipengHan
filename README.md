@@ -21,7 +21,7 @@ Hi, I'm Ruipeng Han!
 <hr>
 
 <pre>
-📚 Currently a <b>Master of Computer Science</b> student at UIUC. Expect to graduate in May 2024.
+📚 Currently a <b>Master of Computer Science</b> student at UIUC. Expect to graduate in Dec 2024.
 🎓 Obtained <b>B.S. in Math & Computer Science & Statistics</b> at UIUC in May 2023.
 💻 Past four internship experiences as a full-time software engineer.
 🔭 Currently working on a project lc-gg.com, an online group-study leetcoder sharing & contest platform.
